@@ -1,3 +1,5 @@
+package com.siddique.stackoverflow;
+
 public class StackOverflowLimitTest {
 
   private static int recursionLimit = 0;

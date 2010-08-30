@@ -1,3 +1,5 @@
+package com.siddique.stackoverflow;
+
 public class StackOverflowLimitWithThreadTest {
   private static int recursionLimit = 0;
   public static void main(final String[] args) {
